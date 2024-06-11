@@ -5,7 +5,8 @@
     "description": "Explores the dangerous human impact of social networking, with tech experts sounding the alarm on their own creations.",
     "url": "https://snworksceo.imgix.net/bdh/81555b20-e0ca-400e-9b91-812a8b7b3b8d.sized-1000x1000.jpg?w=1000",
     "genre": "Documentary",
-    "rating": 7.7
+    "rating": 7.7,
+    "watchUrl": "https://youtu.be/uaaC57tcci0?si=Pxo_U_bPSIRgDcuL"
   },
   {
     "id": 2,
@@ -13,23 +14,26 @@
     "description": "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying forces in order to get him back.",
     "url": "https://occ-0-37-33.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZHclp-1JynUWnj9GdlOIvdYHUxD_rBSmk_Q53L_xPrPHOrv9tobzVvkBJCOshIp4P0hDc_3Zus-1ACtLZjGd0GF682Bf46iZQXVIk4hwY1mWsSG_9enpVAi_qNn08Nr-kAT2A.jpg?r=c68",
     "genre": "Drama, Fantasy, Horror",
-    "rating": 8.7
+    "rating": 8.7,
+    "watchUrl": "https://youtu.be/l5OAxkuq850?si=0AIBcbK4VAq0O2Xv"
   },
   {
     "id": 3,
     "title": "Money Heist",
-    "description": "A group of unique robbers assault the Factory of Moneda and Timbre to carry out the most perfect robbery in the history of Spain and take home 2.4 billion euros.",
+    "description": "A group of unique robbers assault the Factory of Moneda and Timbre to carry out the most perfect robbery in the history of Spain.",
     "url": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/12/Money-Heist-Season-6-will-it-happen.jpg",
     "genre": "Action, Crime",
-    "rating": 8.3
+    "rating": 8.3,
+    "watchUrl": "https://youtu.be/_InqQJRqGW4?si=-xy3dMs6-_eRPX2n"
   },
   {
     "id": 4,
     "title": "Inception",
-    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting idea into mind",
     "url": "https://collider.com/wp-content/uploads/inception_movie_poster_banner_04.jpg",
     "genre": "Sci-Fi",
-    "rating": 8.8
+    "rating": 8.8,
+    "watchUrl": "https://youtu.be/YoHD9XEInc0?si=Zedl6_fICD8f68z0"
   },
   {
     "id": 5,
@@ -37,6 +41,34 @@
     "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
     "url": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/73/23/1c.jpg",
     "genre": "Drama",
-    "rating": 9.2
+    "rating": 9.2,
+    "watchUrl" : "https://youtu.be/UaVTIH8mujA?si=NSu97z5kcY1u7hfU"
+  },
+  {
+    "id": 6,
+    "title": "Inception",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting idea into mind",
+    "url": "https://collider.com/wp-content/uploads/inception_movie_poster_banner_04.jpg",
+    "genre": "Sci-Fi",
+    "rating": 8.8,
+    "watchUrl": "https://youtu.be/YoHD9XEInc0?si=Zedl6_fICD8f68z0"
+  },
+  {
+    "id": 7,
+    "title": "The Social Dilemma",
+    "description": "Explores the dangerous human impact of social networking, with tech experts sounding the alarm on their own creations.",
+    "url": "https://snworksceo.imgix.net/bdh/81555b20-e0ca-400e-9b91-812a8b7b3b8d.sized-1000x1000.jpg?w=1000",
+    "genre": "Documentary",
+    "rating": 7.7,
+    "watchUrl": "https://youtu.be/uaaC57tcci0?si=Pxo_U_bPSIRgDcuL"
+  },
+  {
+    "id": 8,
+    "title": "Stranger Things",
+    "description": "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying forces in order to get him back.",
+    "url": "https://occ-0-37-33.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZHclp-1JynUWnj9GdlOIvdYHUxD_rBSmk_Q53L_xPrPHOrv9tobzVvkBJCOshIp4P0hDc_3Zus-1ACtLZjGd0GF682Bf46iZQXVIk4hwY1mWsSG_9enpVAi_qNn08Nr-kAT2A.jpg?r=c68",
+    "genre": "Drama, Fantasy, Horror",
+    "rating": 8.7,
+    "watchUrl": "https://youtu.be/l5OAxkuq850?si=0AIBcbK4VAq0O2Xv"
   }
 ]
