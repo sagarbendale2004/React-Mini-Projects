@@ -10,7 +10,6 @@ function NetflixDemo() {
         <Navbar />
         <Heading />
         <List />
-        <List />
         <Footer />
       </div>
     </div>
