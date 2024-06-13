@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.superHit {
+    background: rgb(141, 175, 91);
+    color: white;
+}
+
+.average {
+    background-color: rgb(183, 151, 93);
+    color: white;
+}
+
+.rating {
+    padding: 0px 10px;
+    border-radius: 5px;
+    margin-top: 2px;
+}
