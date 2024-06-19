@@ -7,7 +7,7 @@ function Li({ items: { url, title, genre, rating, description, watchUrl } }) {
   let rate = rating >= 8.5 ? "superHit" : "average";
 
   return (
-    <li className="w-[350px] max-h-min bg-gray-800 rounded-xl border-2 border-gray-600 p-3">
+    <li className="w-[350px] max-h-min bg-gray-800 rounded-xl border-2 text-gray-400 border-gray-600 p-3">
       <img className="h-48 w-full rounded-2xl" src={url} alt="new image" />
       <h2 className="py-2 text-xl font-sans font-bold">Title : {title}</h2>
       <h2 className={`text-lg font-bold pb-2`}>
