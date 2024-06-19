@@ -1,12 +1,6 @@
-import NetflixDemo from '../src/Components/NetflixDemo'
-
 function App() {
 
-  return (
-    <>
-      <NetflixDemo />
-    </>
-  )
+  return <></>
 }
 
 export default App
