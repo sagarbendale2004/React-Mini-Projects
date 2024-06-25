@@ -1,0 +1,33 @@
+.center {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+}
+
+button {
+  padding: 20px 40px;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  font-size: 20px;
+  font-family: cursive;
+}
+
+h2 {
+  padding: 30px 40px;
+  background-color: black;
+  color: white;
+  border-radius: 30px;
+  font-size: 18px;
+  font-family: system-ui;
+}
+
+h2 span {
+  background-color: rgb(84, 84, 84);
+  border-radius: 50%;
+  padding: 10px 18px;
+  margin-left: 8px;
+}
